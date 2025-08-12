@@ -1,0 +1,40 @@
+# Flutter/Dart related
+.dart_tool/
+.buildlog/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.vscode/
+
+# Generated files
+/build/
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/ServiceDefinitions.json
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# Misc
+*.iml
+*.log
+*.lock
+*.lockfile
+*.DS_Store
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
